@@ -29,7 +29,7 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://mui.com/static/logo.png" alt="Material UI" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" height="50" /></a>
- <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://www.styled-components.com/atom.png" alt="StyledComponents" height="50" /></a>  
+ <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="StyledComponents" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
