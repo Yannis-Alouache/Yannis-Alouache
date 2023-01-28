@@ -3,20 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Yannis, a student && full-stack freelance developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🔭 I’m currently working on [A Pest Control Company Website](https://github.com/Yannis-Alouache/Jlm)
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+   
 
 <br/>  
 
