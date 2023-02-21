@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [A Pest Control Company Website](https://github.com/Yannis-Alouache/Jlm)
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Currently learning NextJS and Typescript 
    
 
 <br/>  
