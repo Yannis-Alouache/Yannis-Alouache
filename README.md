@@ -6,10 +6,10 @@
 ### <div align="center">I'm Yannis, a student && full-stack freelance developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [A Pest Control Company Website](https://github.com/Yannis-Alouache/Jlm)
+- 🔭 I’m currently working on a car marketplace
   
 
-- ❓ Currently learning NextJS and Typescript 
+- ❓ Currently learning Spring Boot
    
 
 <br/>  
