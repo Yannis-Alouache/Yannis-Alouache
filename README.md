@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a car marketplace
   
 
-- ❓ Currently learning Spring Boot
+- ❓ Currently learning Spring Boot and Angular
    
 
 <br/>  
