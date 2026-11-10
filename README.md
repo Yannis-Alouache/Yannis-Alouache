@@ -1,105 +1,73 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
-</div>  
-  
+<h1 align="center">Yannis Alouache</h1>
 
-### <div align="center">I'm Yannis, a student && full-stack freelance developer 👨‍💻</div>  
-  
+<p align="center">
+  <strong>Full-Stack Developer</strong> · Lille, France
+</p>
 
-- 🔭 I’m currently working on a car marketplace
-  
+<p align="center">
+  <a href="https://yannis-alouache.netlify.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/yannis-alouache/">LinkedIn</a> ·
+  <a href="https://github.com/Yannis-Alouache?tab=repositories">Projects</a>
+</p>
 
-- ❓ Currently learning Spring Boot and Angular
-   
+---
 
-<br/>  
+### About me
 
+- Full-stack developer focused on building complete, production-ready web applications — from the interface to the infrastructure.
+- Strong background in **JavaScript / TypeScript** ecosystems (React, Next.js, Node.js, Express) with solid experience in **PHP** and **Python**.
+- I care about clean architecture: DDD, hexagonal architecture, microservices and real-time systems (Socket.IO).
+- I design APIs, model data, containerize services and ship on Linux environments.
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### Tech stack
 
+**Frontend**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://mui.com/static/logo.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" height="50" /></a>
- <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="StyledComponents" height="50" /></a>  
-</div>
+**Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-</td><td valign="top" width="33%">
+### Featured projects
 
+| Project | Description | Stack |
+| --- | --- | --- |
+| [collab-realtime-platform](https://github.com/Yannis-Alouache/collab-realtime-platform) | Real-time collaborative platform with live synchronization | JavaScript, Socket.IO, Node.js |
+| [stock-inventory-microservices](https://github.com/Yannis-Alouache/stock-inventory-microservices) | Stock & inventory system built as independent microservices | Microservices, Docker, Web APIs |
+| [ddd-micro-store](https://github.com/Yannis-Alouache/ddd-micro-store) | E-commerce backend designed with Domain-Driven Design | TypeScript, DDD, REST |
+| [hexa-poll](https://github.com/Yannis-Alouache/hexa-poll) | Polling application following hexagonal architecture | TypeScript, Hexagonal Architecture |
+| [meteo-app-next](https://github.com/Yannis-Alouache/meteo-app-next) | Weather application with a modern, responsive UI | Next.js, TypeScript |
+| [AumBiosyncTraining](https://github.com/Yannis-Alouache/AumBiosyncTraining) | Console OpsReady — fatigue-risk training app with 12 evolution tickets | Python, Angular |
 
+### GitHub stats
 
-### Backend  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://www.php.net/images/meta-image.png" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://www.itnetwork.cz/images/46772/lekce5/mdb.png" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://www.linuxadictos.com/wp-content/uploads/nginx-1.jpg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" alt="Flask" height="50" /></a>
- <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://www.fullstackpython.com/img/logos/django.png" alt="Flask" height="50" /></a>  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yannis-Alouache&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yannis-Alouache&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="165"/>
+</p>
 
-</td><td valign="top" width="33%">
+---
 
-
-
-### DevOps  
-<div align="center">  
-<a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1413544188411482112/61xGHyIi_400x400.jpg" alt="Netlify" height="50" /></a> 
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-<!-- ## Connect with me  
-<div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
--->
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yannis-Alouache&show_icons=true" align="center" /></div>
-
-  
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center">
+  <a href="https://yannis-alouache.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-yannis--alouache.netlify.app-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/yannis-alouache/"><img src="https://img.shields.io/badge/LinkedIn-yannis--alouache-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
