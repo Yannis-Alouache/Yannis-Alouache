@@ -38,11 +38,9 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
@@ -57,8 +55,15 @@
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yannis-Alouache&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yannis-Alouache&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Yannis-Alouache&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yannis-Alouache/Yannis-Alouache/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yannis-Alouache/Yannis-Alouache/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Yannis-Alouache/Yannis-Alouache/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </p>
 
 ---
