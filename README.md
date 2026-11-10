@@ -54,17 +54,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### Featured projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [collab-realtime-platform](https://github.com/Yannis-Alouache/collab-realtime-platform) | Real-time collaborative platform with live synchronization | JavaScript, Socket.IO, Node.js |
-| [stock-inventory-microservices](https://github.com/Yannis-Alouache/stock-inventory-microservices) | Stock & inventory system built as independent microservices | Microservices, Docker, Web APIs |
-| [ddd-micro-store](https://github.com/Yannis-Alouache/ddd-micro-store) | E-commerce backend designed with Domain-Driven Design | TypeScript, DDD, REST |
-| [hexa-poll](https://github.com/Yannis-Alouache/hexa-poll) | Polling application following hexagonal architecture | TypeScript, Hexagonal Architecture |
-| [meteo-app-next](https://github.com/Yannis-Alouache/meteo-app-next) | Weather application with a modern, responsive UI | Next.js, TypeScript |
-| [AumBiosyncTraining](https://github.com/Yannis-Alouache/AumBiosyncTraining) | Console OpsReady — fatigue-risk training app with 12 evolution tickets | Python, Angular |
-
 ### GitHub stats
 
 <p align="center">
